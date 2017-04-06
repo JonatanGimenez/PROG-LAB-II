@@ -1,0 +1,3 @@
+c:\users\administrador\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Administrador\Desktop\UTN\Clase 5 - tp1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Clase 6 - tp1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config

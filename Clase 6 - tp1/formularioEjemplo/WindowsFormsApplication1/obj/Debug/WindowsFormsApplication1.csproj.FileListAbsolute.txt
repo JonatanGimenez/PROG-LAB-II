@@ -1,0 +1,18 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\UTN\Clase 5\formularioEjemplo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\Clases\bin\Debug\Clases.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\Clases\bin\Debug\Clases.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\Clases\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\Clases\obj\Debug\Clases.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\Clases\obj\Debug\Clases.pdb
+D:\Clase 08\ejemplosArray\Clases\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Clase 08\ejemplosArray\Clases\obj\Debug\Clases.dll
+D:\Clase 08\ejemplosArray\Clases\obj\Debug\Clases.pdb
+D:\Clase 08\ejemplosArray\Clases\bin\Debug\Clases.dll
+D:\Clase 08\ejemplosArray\Clases\bin\Debug\Clases.pdb

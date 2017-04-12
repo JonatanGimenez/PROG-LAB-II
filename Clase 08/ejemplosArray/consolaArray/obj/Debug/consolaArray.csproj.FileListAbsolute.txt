@@ -1,0 +1,20 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\obj\Debug\consolaArray.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\consolaArray.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\consolaArray.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\consolaArray.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\Clases.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\ejemplosArray.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\Clases.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\bin\Debug\ejemplosArray.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\obj\Debug\consolaArray.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\consolaArray\obj\Debug\consolaArray.pdb
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\consolaArray.exe.config
+D:\Clase 08\ejemplosArray\consolaArray\obj\Debug\consolaArray.exe
+D:\Clase 08\ejemplosArray\consolaArray\obj\Debug\consolaArray.pdb
+D:\Clase 08\ejemplosArray\consolaArray\obj\Debug\consolaArray.csprojResolveAssemblyReference.cache
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\consolaArray.exe
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\consolaArray.pdb
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\Clases.dll
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\ejemplosArray.exe
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\Clases.pdb
+D:\Clase 08\ejemplosArray\consolaArray\bin\Debug\ejemplosArray.pdb

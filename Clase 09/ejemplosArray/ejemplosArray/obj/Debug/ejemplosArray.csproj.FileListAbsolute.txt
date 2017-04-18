@@ -1,0 +1,14 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\bin\Debug\ejemplosArray.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\bin\Debug\ejemplosArray.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\bin\Debug\ejemplosArray.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.pdb
+D:\Clase 08\ejemplosArray\ejemplosArray\bin\Debug\ejemplosArray.exe.config
+D:\Clase 08\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.exe
+D:\Clase 08\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.pdb
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\ejemplosArray\bin\Debug\ejemplosArray.exe.config
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.exe
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\ejemplosArray\obj\Debug\ejemplosArray.pdb

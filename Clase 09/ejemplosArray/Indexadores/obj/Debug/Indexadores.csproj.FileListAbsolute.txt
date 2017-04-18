@@ -1,0 +1,5 @@
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\Indexadores\bin\Debug\Indexadores.dll
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\Indexadores\bin\Debug\Indexadores.pdb
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\Indexadores\obj\Debug\Indexadores.csprojResolveAssemblyReference.cache
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\Indexadores\obj\Debug\Indexadores.dll
+D:\PROG-LAB-II-master\Clase 08\ejemplosArray\Indexadores\obj\Debug\Indexadores.pdb

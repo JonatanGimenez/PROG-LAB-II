@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\bin\Debug\Test.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\bin\Debug\Test.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\bin\Debug\Test.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\bin\Debug\conHerencia.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\bin\Debug\conHerencia.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\obj\Debug\Test.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Test\obj\Debug\Test.pdb

@@ -1,0 +1,9 @@
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\obj\Debug\conClaseAbstracta.csprojResolveAssemblyReference.cache
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\conClaseAbstracta.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\conClaseAbstracta.pdb
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\conHerencia.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\Sin herencia.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\conHerencia.pdb
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\bin\Debug\Sin herencia.pdb
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\obj\Debug\conClaseAbstracta.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\conClaseAbstracta\obj\Debug\conClaseAbstracta.pdb

@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Sin herencia\bin\Debug\Sin herencia.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Sin herencia\bin\Debug\Sin herencia.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.pdb
+D:\PROG-LAB-II-master\Ejemplo de herencia1\Sin herencia\bin\Debug\Sin herencia.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\Sin herencia\bin\Debug\Sin herencia.pdb
+D:\PROG-LAB-II-master\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.csprojResolveAssemblyReference.cache
+D:\PROG-LAB-II-master\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.dll
+D:\PROG-LAB-II-master\Ejemplo de herencia1\Sin herencia\obj\Debug\Sin herencia.pdb

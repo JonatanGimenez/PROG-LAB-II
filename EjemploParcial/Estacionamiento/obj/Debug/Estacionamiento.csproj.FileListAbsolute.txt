@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\EjemploParcial\Estacionamiento\obj\Debug\Estacionamiento.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\EjemploParcial\Estacionamiento\bin\Debug\Estacionamiento.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\EjemploParcial\Estacionamiento\bin\Debug\Estacionamiento.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\EjemploParcial\Estacionamiento\obj\Debug\Estacionamiento.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\EjemploParcial\Estacionamiento\obj\Debug\Estacionamiento.pdb

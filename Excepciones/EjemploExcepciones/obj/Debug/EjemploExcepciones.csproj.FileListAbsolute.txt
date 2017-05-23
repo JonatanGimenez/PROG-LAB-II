@@ -1,0 +1,7 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\bin\Debug\EjemploExcepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\bin\Debug\misExcepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Excepciones\EjemploExcepciones\bin\Debug\misExcepciones.pdb

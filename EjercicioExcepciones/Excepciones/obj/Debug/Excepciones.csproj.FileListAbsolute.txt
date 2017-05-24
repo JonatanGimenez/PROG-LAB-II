@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\EjercicioExcepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\EjercicioExcepciones\Excepciones\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\EjercicioExcepciones\Excepciones\bin\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\EjercicioExcepciones\Excepciones\obj\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\EjercicioExcepciones\Excepciones\obj\Debug\Excepciones.pdb

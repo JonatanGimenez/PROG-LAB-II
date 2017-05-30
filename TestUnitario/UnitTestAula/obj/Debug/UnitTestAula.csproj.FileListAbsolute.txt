@@ -1,0 +1,7 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\obj\Debug\UnitTestAula.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\bin\Debug\UnitTestAula.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\bin\Debug\UnitTestAula.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\bin\Debug\ClassLibrary1.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\bin\Debug\ClassLibrary1.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\obj\Debug\UnitTestAula.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\UnitTestAula\obj\Debug\UnitTestAula.pdb

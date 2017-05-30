@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\bin\Debug\testUnitario.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\bin\Debug\testUnitario.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\bin\Debug\testUnitario.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\obj\Debug\testUnitario.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\obj\Debug\testUnitario.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\TestUnitario\testUnitario\obj\Debug\testUnitario.pdb

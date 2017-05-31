@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Generics\Generics\bin\Debug\Generics.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Generics\Generics\bin\Debug\Generics.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Generics\Generics\obj\Debug\Generics.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Generics\Generics\obj\Debug\Generics.pdb

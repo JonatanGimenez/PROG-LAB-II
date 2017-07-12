@@ -1,0 +1,11 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\obj\Debug\Unit Test.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Unit Test.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Unit Test.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Interfaces.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\bin\Debug\Interfaces.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\obj\Debug\Unit Test.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\Unit Test\obj\Debug\Unit Test.pdb

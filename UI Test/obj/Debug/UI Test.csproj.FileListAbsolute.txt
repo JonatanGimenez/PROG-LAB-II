@@ -1,0 +1,18 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\UI Test.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI_Test.Form1.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI_Test.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\UI Test.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\UI Test.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Interfaces.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Excepciones.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\Interfaces.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.pdb
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\Lareu.Fernando.2017.2A.SP\UI Test\bin\Debug\UI Test.exe.config
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.exe
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\Lareu.Fernando.2017.2A.SP\UI Test\obj\Debug\UI Test.pdb

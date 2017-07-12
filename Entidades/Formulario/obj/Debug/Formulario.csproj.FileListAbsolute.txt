@@ -1,0 +1,19 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Formulario.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Formulario.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Formulario.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.FrmTienda.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Excepciones.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\Administrador\Desktop\ESTUDÍA\## Segundo Parcial\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.pdb
+C:\Users\alumno\Desktop\ESTUDÍA\Parcial\aramayo.nicolas.2017.2A.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\alumno\Desktop\ESTUDÍA\Parcial\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\alumno\Desktop\ESTUDÍA\Parcial\aramayo.nicolas.2017.2A.SP\Formulario\obj\Debug\Formulario.pdb
